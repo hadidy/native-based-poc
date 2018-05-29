@@ -1,0 +1,4 @@
+#Tue May 29 14:20:50 EET 2018
+base.0=E\:\\trails\\poc\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\trails\\poc\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

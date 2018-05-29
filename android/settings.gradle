@@ -1,0 +1,3 @@
+rootProject.name = 'Spain_POC'
+
+include ':app'
